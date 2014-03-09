@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <widget xmlns="http://www.w3.org/ns/widgets" height="200" id="http://TollywoodMoviesCalendar2013" version="1.0.0" viewmodes="windowed fullscreen" width="200">
+    
+    <name short="TollywoodMovieCalendar2013">TollywoodMoviesCalendar2013</name>    
+
+    <description>
+       Tollywood Movie Calendar for the year 2013.
+    </description>
+        
+    <author email="gaurav.raunak@gmail.com" href="http://www.example.com">
+        Gaurav Jain
+    </author>
+    
+    <icon src="icon.png"/>    
+    <content src="index.html"/>
+    
+    <license>
+	   Copyright Gaurav Jain, 2013.
+    </license>
+    
+   	<feature name="nokia://s40.nokia.com/SAWRT/2.3" required="true" />   	
+</widget>
